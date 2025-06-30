@@ -1,16 +1,18 @@
 <!-- SOBRE MIM! 
 <div>
-    <img height="80em" align="center" src="https://github.com/TechdevSLA/TechdevSLA/blob/main/robot.gif">
-    <a href="https://github.com/TechdevSLA">
+    <img height="80em" align="center" src="https://github.com/Alexsandro-Simas-Lopes/Alexsandro-Simas-Lopes/blob/main/robot.gif">
+    <a href="https://github.com/Alexsandro-Simas-Lopes">
         <img height="80em" align="center" src="https://readme-typing-svg.demolab.com/?lines=<Hello+World!>;I+am+Alex.Simas!">
     </a>
 </div>-->
 <!-- DASHBOARD'S -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <a href="https://github.com/TechdevSLA">
+    <img height="235em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechdevSLA&theme=radical" />
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=TechdevSLA&rank_icon=github&show_icons=true&theme=radical" />
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechdevSLA&layout=compact&langs_count=7&theme=radical" />
+  </a>
+</p>
 
 
 
@@ -35,13 +37,13 @@
 </picture>
 <br><br>
 <!-- 
-- 👋 Olá, sou @TechdevSLA. Atualmente trabalho como estagiário no setor de pesquisa e desenvolvimento da SEDUC/AM
+- 👋 Olá, sou @Alexsandro-Simas-Lopes. Atualmente trabalho como estagiário no setor de pesquisa e desenvolvimento da SEDUC/AM
 - 🌱 Trabalho com desenvolvimento front-end, mas tambem possuo um breve conhecimento de back-and
 - 💞️ Durante meu tempo de Estágio adquiri conhecimentos em HTML, CSS, Java e JavaScript. E continuo aprendendo a cada dia
 - 📫 Estou procurando colaborar em projetos sociais de desenvolvimento de sites cristãos e ONG's.
 ## 🚀 Olá eu sou Alexsandro Simas Lopes, estou iniciando minha carreira na área de Desenvolvimento! 👨‍💻 -->
   
 <!-- IMAGEM DE PLANETA GIT -->
-<!-- <img align="center" alt="" width="auto"  src="https://github-readme-stats.vercel.app/api/pin/?username=TechdevSLA&repo=TechdevSLA&theme=radical"
+<!-- <img align="center" alt="" width="auto"  src="https://github-readme-stats.vercel.app/api/pin/?username=Alexsandro-Simas-Lopes&repo=Alexsandro-Simas-Lopes&theme=radical"
 src="https://github.githubassets.com/images/modules/site/home/globe.jpg" style="> -->
 
