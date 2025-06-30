@@ -6,13 +6,11 @@
     </a>
 </div>-->
 <!-- DASHBOARD'S -->
-<p align="center">
-  <a href="https://github.com/TechdevSLA">
-    <img height="235em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechdevSLA&theme=radical" />
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=TechdevSLA&rank_icon=github&show_icons=true&theme=radical" />
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechdevSLA&layout=compact&langs_count=7&theme=radical" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
