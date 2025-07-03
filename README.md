@@ -21,6 +21,8 @@
   src="https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif"> 
 </div>
 
+![snake gif](https://TechdevSLA.github.io/TechdevSLA/github-contribution-grid-snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake.svg">
