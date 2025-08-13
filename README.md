@@ -1,8 +1,8 @@
 <!-- DASHBOARD'S -->
 <p align="center">
-  <a href="https://github.com/TechdevSLA">
-    <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechdevSLA&theme=radical" />
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=TechdevSLA&rank_icon=github&show_icons=true&theme=radical" />
+  <a href="https://github.com/DevLoopes">
+    <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevLoopes&theme=radical" />
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=DevLoopes&rank_icon=github&show_icons=true&theme=radical" />
     <!--     <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechdevSLA&layout=compact&langs_count=7&theme=radical" /> -->
   </a>
 </p>
@@ -21,12 +21,12 @@
   src="https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif"> 
 </div>
 
-![snake gif](https://TechdevSLA.github.io/TechdevSLA/github-contribution-grid-snake.svg)
+![snake gif](https://DevLoopes.github.io/DevLoopes/github-contribution-grid-snake.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TechdevSLA/TechdevSLA/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
 
