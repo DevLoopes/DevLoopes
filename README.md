@@ -6,18 +6,17 @@
   </a>
 </p>
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 2px;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=6E60F7&center=true&vCenter=true&width=200&separator=%3C&lines=eat();" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=54F722&center=true&vCenter=true&width=200&separator=%3C&lines=sleep();" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F7F03A&center=true&vCenter=true&width=200&separator=%3C&lines=code();" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F72727&center=true&vCenter=true&width=200&separator=%3C&lines=repeat();" alt="Typing SVG" /></a>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 2px;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=6E60F7&center=true&vCenter=true&width=150&separator=%3C&lines=eat();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=54F722&center=true&vCenter=true&width=150&separator=%3C&lines=sleep();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F7F03A&center=true&vCenter=true&width=150&separator=%3C&lines=code();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F72727&center=true&vCenter=true&width=150&separator=%3C&lines=repeat();" alt="Typing SVG" /></a>
+</div>
 
-# **About!**
+<h1>About!</h1>
+
 ### **Desenvolvedor Backend • DevOps • Node.js | Docker | SQL**
-
 Sou desenvolvedor backend com experiência prática em construção de APIs REST, documentação OpenAPI/Swagger, versionamento de código, dockerização e arquitetura de sistemas. Também atuo com DevOps básico, incluindo SSH, gerenciamento de servidores Linux e deploy de aplicações containerizadas.
-
 Além disso, tenho interesse e conhecimento introdutório em visão computacional, redes neurais e object detection.
 
 <!--# 🚀 **Core Skills (Backend & DevOps)**
@@ -83,6 +82,7 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger / OpenAPI" width="50"/>
 
 </div>
+
 <!--
 # 📚 **Atualmente Estudando**
 - Aprimoramento em arquiteturas backend (DDD, Clean Architecture)
