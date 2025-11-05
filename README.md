@@ -7,10 +7,10 @@
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 2px;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=6E60F7&center=true&vCenter=true&width=150&separator=%3C&lines=eat();" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=54F722&center=true&vCenter=true&width=150&separator=%3C&lines=sleep();" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F7F03A&center=true&vCenter=true&width=150&separator=%3C&lines=code();" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F72727&center=true&vCenter=true&width=150&separator=%3C&lines=repeat();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=6E60F7&center=true&vCenter=true&width=150&separator=%3C&lines=eat();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=54F722&center=true&vCenter=true&width=150&separator=%3C&lines=sleep();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=F7F03A&center=true&vCenter=true&width=150&separator=%3C&lines=code();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=F72727&center=true&vCenter=true&width=150&separator=%3C&lines=repeat();" alt="Typing SVG" /></a>
 </div>
 
 <h1>About!</h1>
