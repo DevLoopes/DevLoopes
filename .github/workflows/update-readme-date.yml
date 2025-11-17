@@ -1,0 +1,36 @@
+name: Update README Date
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Executa diariamente às 03:00 UTC
+  workflow_dispatch:        # Permite rodar manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Update date inside README.md
+        run: |
+          DATE=$(date +"%Y-%m-%d %H:%M:%S UTC")
+          # Substitui a linha que contém "Última atualização:"
+          if grep -q "Última atualização:" README.md; then
+            sed -i "s|Última atualização:.*|Última atualização: $DATE|" README.md
+          else
+            echo "Última atualização: $DATE" >> README.md
+          fi
+
+      - name: Commit changes
+        run: |
+          git add README.md
+          git commit -m "Atualização automática: $DATE" || echo "Nenhuma alteração feita"
+          git push
+
