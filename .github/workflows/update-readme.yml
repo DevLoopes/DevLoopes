@@ -1,0 +1,47 @@
+name: Update README Daily
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # Executa diariamente às 07:00 UTC (03:00 em Manaus)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Generate Date & Counter
+        run: |
+          # Horário de Manaus (-04:00)
+          DATE=$(TZ="America/Manaus" date +"%Y-%m-%d %H:%M:%S (%Z)")
+          
+          # Arquivo auxiliar para manter contador
+          COUNTER_FILE=".daily-counter"
+
+          # Se não existir, cria
+          if [ ! -f "$COUNTER_FILE" ]; then
+            echo "1" > "$COUNTER_FILE"
+          else
+            # Incrementa
+            COUNT=$(cat "$COUNTER_FILE")
+            COUNT=$((COUNT + 1))
+            echo "$COUNT" > "$COUNTER_FILE"
+          fi
+
+          # Atualiza o README
+          sed -i "s|Última atualização:.*|Última atualização: $DATE|" README.md
+          sed -i "s|Dias consecutivos:.*|Dias consecutivos: $COUNT|" README.md
+
+      - name: Commit changes
+        run: |
+          git add README.md .daily-counter
+          git commit -m "Atualização automática diária: $DATE" || echo "Nenhuma alteração"
+          git push
