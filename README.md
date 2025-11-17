@@ -19,21 +19,6 @@
 Sou desenvolvedor backend com experiência prática em construção de APIs REST, documentação OpenAPI/Swagger, versionamento de código, dockerização e arquitetura de sistemas. Também atuo com DevOps básico, incluindo SSH, gerenciamento de servidores Linux e deploy de aplicações containerizadas.
 Além disso, tenho interesse e conhecimento introdutório em visão computacional, redes neurais e object detection.
 
-<!--# 🚀 **Core Skills (Backend & DevOps)**
-✅ **APIs REST com Node.js + Express**  
-✅ **Autenticação com JWT**  
-✅ **Docker e Docker Compose (dockerização de aplicações)**  
-✅ **ORM Sequelize (PostgreSQL / MySQL)**  
-✅ **Versionamento com Git + GitFlow**  
-✅ **Documentação com Swagger + OpenAPI (openapi.yml)**  
-✅ **Validação com Middlewares**  
-✅ **Request API & integração entre serviços**  
-✅ **Gerenciamento de Negócios / Regras de Negócio**  
-✅ **SSH, roteamento por porta/IP e deploy em servidores**  
-✅ **Linux para ambiente de produção**  
-✅ **Machine Learning básico (CNN, object detection)**-->
-
----
 
 # 🧰 **Tecnologias & Ferramentas**
 
@@ -91,17 +76,5 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
   <img alt="github contribution snake" 
        src="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-snake.svg" />
 </picture>
-
-
-
-<!--
-# 📚 **Atualmente Estudando**
-- Aprimoramento em arquiteturas backend (DDD, Clean Architecture)
-- Observabilidade e monitoramento de APIs
-- Automação de deploy com Docker + ferramentas DevOps
-- Visão computacional e modelos de detecção de objetos
-# 📫 **Contato**
-📧 **Email:** alex.devlopes@gmail.com  
-🐙 **GitHub:** https://github.com/DevLoopes  
 
 
