@@ -83,13 +83,16 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
 
 </div>
 
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-snake.svg" />
+  <img alt="github contribution snake" 
+       src="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-snake.svg" />
 </picture>
-<br><br> -->
+
+
 
 <!--
 # 📚 **Atualmente Estudando**
@@ -100,12 +103,5 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
 # 📫 **Contato**
 📧 **Email:** alex.devlopes@gmail.com  
 🐙 **GitHub:** https://github.com/DevLoopes  
----
- ![snake gif](https://DevLoopes.github.io/DevLoopes/github-contribution-grid-snake.svg) 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>-->
+
 
