@@ -37,7 +37,7 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
 
 # 🧰 **Tecnologias & Ferramentas**
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
   
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" />
@@ -82,6 +82,14 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger / OpenAPI" width="50"/>
 
 </div>
+
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br> -->
 
 <!--
 # 📚 **Atualmente Estudando**
