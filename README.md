@@ -1,8 +1,11 @@
+
+# Hello, I am Alex
+
 <!-- DASHBOARD'S -->
+
 <p align="center">
   <a href="https://github.com/DevLoopes">
     <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevLoopes&theme=radical" />
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=DevLoopes&rank_icon=github&show_icons=true&theme=radical" />
   </a>
 </p>
 
@@ -14,6 +17,8 @@
 </div>
 
 <h1>About!</h1>
+
+
 
 ### **Desenvolvedor Backend • DevOps • Node.js | Docker | SQL**
 Sou desenvolvedor backend com experiência prática em construção de APIs REST, documentação OpenAPI/Swagger, versionamento de código, dockerização e arquitetura de sistemas. Também atuo com DevOps básico, incluindo SSH, gerenciamento de servidores Linux e deploy de aplicações containerizadas.
@@ -74,14 +79,8 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
   <!-- Swagger -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger / OpenAPI" width="50"/>
 
-
-
-
-
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
-
-
 </div>
 
 <picture>
@@ -92,3 +91,33 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
   <img alt="github contribution grid snake animation"
        src="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-snake.svg" />
 </picture>
+
+<!-- <details>
+  <summary><h2>📊 Statistics</h2></summary>
+  <div>
+    <br />
+    <div>
+      <a href="https://github.com/DevLoopes">
+        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=DevLoopes&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
+      </a>
+      <br /><br />
+    </div>
+    <div>
+      <a href="https://github.com/DevLoopes?tab=repositories&q=&type=&language=&sort=stargazers">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DevLoopes&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DevLoopes&count_private=true" />
+          <img alt="Enji Kusnadi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=DevLoopes&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
+        </picture>
+      </a>
+      <br /><br />
+      <a href="https://github.com/DevLoopes?tab=repositories&q=&type=&language=&sort=stargazers">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DevLoopes&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DevLoopes" />
+          <img alt="Enji Kusnadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevLoopes&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
+        </picture>
+      </a>
+    </div>
+  </div>
+</details> -->
