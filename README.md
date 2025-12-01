@@ -1,29 +1,19 @@
 
-# Hello, I am Alex
 
-<!-- DASHBOARD'S -->
+<!-- Introduction + Coffee -->
+<h1> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
+<div align="left">
 
-<p align="center">
-  <a href="https://github.com/DevLoopes">
-    <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevLoopes&theme=radical" />
-  </a>
-</p>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 2px;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=6E60F7&center=true&vCenter=true&width=150&separator=%3C&lines=eat();" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=54F722&center=true&vCenter=true&width=150&separator=%3C&lines=sleep();" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=F7F03A&center=true&vCenter=true&width=150&separator=%3C&lines=code();" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=F72727&center=true&vCenter=true&width=150&separator=%3C&lines=repeat();" alt="Typing SVG" /></a>
-</div>
-
-<h1>About!</h1>
-
-
+ <picture>
+    <source media="(prefers-color-scheme: light)" align="right" width="30%">
+    <img src="/robot.gif" width="30%" align="right" />
+</picture>
 
 ### **Desenvolvedor Backend • DevOps • Node.js | Docker | SQL**
 Sou desenvolvedor backend com experiência prática em construção de APIs REST, documentação OpenAPI/Swagger, versionamento de código, dockerização e arquitetura de sistemas. Também atuo com DevOps básico, incluindo SSH, gerenciamento de servidores Linux e deploy de aplicações containerizadas.
 Além disso, tenho interesse e conhecimento introdutório em visão computacional, redes neurais e object detection.
-
+<br></br>
+<br></br>
 
 # 🧰 **Tecnologias & Ferramentas**
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
@@ -91,6 +81,21 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
   <img alt="github contribution grid snake animation"
        src="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-snake.svg" />
 </picture>
+
+
+<!-- DASHBOARD'S -->
+<!-- <p align="center">
+  <a href="https://github.com/DevLoopes">
+    <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevLoopes&theme=radical" />
+  </a>
+</p>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 2px;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=6E60F7&center=true&vCenter=true&width=150&separator=%3C&lines=eat();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=54F722&center=true&vCenter=true&width=150&separator=%3C&lines=sleep();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=F7F03A&center=true&vCenter=true&width=150&separator=%3C&lines=code();" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=F72727&center=true&vCenter=true&width=150&separator=%3C&lines=repeat();" alt="Typing SVG" /></a>
+</div> -->
 
 <!-- <details>
   <summary><h2>📊 Statistics</h2></summary>
