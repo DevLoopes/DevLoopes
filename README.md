@@ -1,18 +1,18 @@
 
 
 <!-- Introduction + Coffee -->
-<h1> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
+<h1> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "80"/></h1>
 <div align="left">
 
- <picture>
-    <source media="(prefers-color-scheme: light)" align="right" width="30%">
-    <img src="/robot.gif" width="30%" align="right" />
+<picture>
+    <source media="(prefers-color-scheme: light)" align="right" width="200vw">
+    <img src="/robot.gif" width="200vw" align="left" />
 </picture>
 
 ### **Desenvolvedor Backend • DevOps • Node.js | Docker | SQL**
 Sou desenvolvedor backend com experiência prática em construção de APIs REST, documentação OpenAPI/Swagger, versionamento de código, dockerização e arquitetura de sistemas. Também atuo com DevOps básico, incluindo SSH, gerenciamento de servidores Linux e deploy de aplicações containerizadas.
 Além disso, tenho interesse e conhecimento introdutório em visão computacional, redes neurais e object detection.
-<br></br>
+
 <br></br>
 
 # 🧰 **Tecnologias & Ferramentas**
@@ -97,7 +97,7 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=8000&pause=1000&color=F72727&center=true&vCenter=true&width=150&separator=%3C&lines=repeat();" alt="Typing SVG" /></a>
 </div> -->
 
-<!-- <details>
+<details>
   <summary><h2>📊 Statistics</h2></summary>
   <div>
     <br />
@@ -125,4 +125,4 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
       </a>
     </div>
   </div>
-</details> -->
+</details> 
