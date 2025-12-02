@@ -1,9 +1,9 @@
 <!-- Introduction + Coffee -->
-<h1 align="right"> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
+<h1 align="right"> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "60vw"/></h1>
 
 <!-- Abroad me -->
 <picture>
-    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" class="giphy-embed" width="130vw" align="left" />
+    <img src="/code.gif" class="giphy-embed" width="130vw" align="left" />
     <div align="justify" >
         <h3>Desenvolvedor Backend • DevOps • Node.js | Docker | SQL</h3>
         Sou desenvolvedor backend com experiência prática em construção de APIs REST, documentação OpenAPI/Swagger, versionamento de código, dockerização e arquitetura de sistemas. 
@@ -11,7 +11,7 @@
 </picture>
 <br/>
 <picture>
-    <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" class="giphy-embed" width="130vw" align="right" />
+    <img src="/web.gif" class="giphy-embed" width="130vw" align="right" />
     <div align="justify" >
         <h3>Operating Systems</h3>
         Também atuo com DevOps básico, incluindo SSH, gerenciamento de servidores Lin<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="28"/>ux e deploy de aplicações containerizadas.
@@ -33,43 +33,44 @@
 </picture>
 
 ## **Tecnologias & Ferramentas** 🧰
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around" width="60">
+<picture>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around" width="40%">
         <!-- HTML -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
         <!-- CSS -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
         <!-- JavaScript -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
         <!-- PHP -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40"/>
         <!-- Java -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>
         <!-- Python -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
         <!-- React.js -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="40"/>
         <!-- Node.js -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
         <!-- Express -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40"/>
         <!-- Docker -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
         <!-- Laravel PHP -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel PHP" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel PHP" width="40"/>
         <!-- Sequelize -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="40"/>
         <!-- MySQL -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
         <!-- GIT -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" width="40"/>
         <!-- Java NetBeans -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" title="Java NetBeans" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" title="Java NetBeans" width="40"/>
         <!-- Dbeaver-ce -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" title="Dbeaver-ce" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" title="Dbeaver-ce" width="40"/>
         <!-- Swagger -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger / OpenAPI" width="50"/>
-    </picture>
-</div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger / OpenAPI" width="40"/>
+    </div>
+</picture>
     
 <details open>
     <summary><h2>Github Stats📊</h2></summary>
@@ -80,6 +81,7 @@
             <img src="https://img.shields.io/github/followers/DevLoopes?style=social" />
         </a>
     </div>
+    <img src="/optimized_DevLoopes_github_meme_dark.gif" class="giphy-embed" width="50%" align="left" />
 </details>
 
 <!-- DASHBOARD'S -->
