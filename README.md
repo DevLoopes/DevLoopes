@@ -33,8 +33,7 @@
 </picture>
 
 ## **Tecnologias & Ferramentas** 🧰
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around">
-    <picture>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around" width="60">
         <!-- HTML -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" />
         <!-- CSS -->
@@ -47,10 +46,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50"/>
         <!-- Python -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
-    </picture>
-    
-**Tecnologias / Frameworks / Bibliotecas**
-    <picture>
         <!-- React.js -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="50"/>
         <!-- Node.js -->
@@ -63,10 +58,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel PHP" width="50"/>
         <!-- Sequelize -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="50"/>
-    </picture>
-    
-**Ferramentas**
-    <picture>
         <!-- MySQL -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50"/>
         <!-- GIT -->
