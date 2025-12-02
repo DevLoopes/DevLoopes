@@ -1,5 +1,8 @@
 <!-- Introduction + Coffee -->
-<h1 align="right"> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "60vw"/></h1>
+<div>
+    <img src="/optimized_DevLoopes_github_meme_dark.gif" class="giphy-embed" width="100%" align="left" />
+    <h1 align="right">Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "60vw"/></h1>
+</div>
 
 <!-- Abroad me -->
 <picture>
@@ -81,7 +84,6 @@
             <img src="https://img.shields.io/github/followers/DevLoopes?style=social" />
         </a>
     </div>
-    <img src="/optimized_DevLoopes_github_meme_dark.gif" class="giphy-embed" width="65%" align="right" />
 </details>
 
 <!-- DASHBOARD'S -->
