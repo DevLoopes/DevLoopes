@@ -1,21 +1,26 @@
 
 
 <!-- Introduction + Coffee -->
-<h1> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "80"/></h1>
-<div align="left">
-
+<h1 align="right"> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
 <picture>
-    <source media="(prefers-color-scheme: light)" align="right" width="200vw">
-    <img src="/robot.gif" width="200vw" align="left" />
+    <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" class="giphy-embed" width="130vw" align="left" />
+    <div align="justify" >
+        <h3>Desenvolvedor Backend • DevOps • Node.js | Docker | SQL</h3>
+        Sou desenvolvedor backend com experiência prática em construção de APIs REST, documentação OpenAPI/Swagger, versionamento de código, dockerização e arquitetura de sistemas. 
+    </div>
 </picture>
+<br/>
+<picture>
+    <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" class="giphy-embed" width="130vw" align="right" />
+    <div align="justify" >
+        <h3>Operating Systems</h3>
+        Também atuo com DevOps básico, incluindo SSH, gerenciamento de servidores Linux🐧 e deploy de aplicações containerizadas.
+        Além disso, tenho interesse e conhecimento introdutório em visão computacional, redes neurais e object detection.
+    </div>
+</picture>
+<br/>
 
-### **Desenvolvedor Backend • DevOps • Node.js | Docker | SQL**
-Sou desenvolvedor backend com experiência prática em construção de APIs REST, documentação OpenAPI/Swagger, versionamento de código, dockerização e arquitetura de sistemas. Também atuo com DevOps básico, incluindo SSH, gerenciamento de servidores Linux e deploy de aplicações containerizadas.
-Além disso, tenho interesse e conhecimento introdutório em visão computacional, redes neurais e object detection.
-
-<br></br>
-
-# 🧰 **Tecnologias & Ferramentas**
+## **Tecnologias & Ferramentas** 🧰
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
   
   <!-- HTML -->
@@ -73,6 +78,7 @@ Além disso, tenho interesse e conhecimento introdutório em visão computaciona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
 </div>
 
+## **Just a snake eating my contributions** 🐍
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/DevLoopes/DevLoopes/output/github-snake-dark.svg" />
