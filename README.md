@@ -1,13 +1,5 @@
 <!-- Introduction + Coffee -->
-<div>
-    <a href="https://github.com/DevLoopes">
-        <img alt="This week GitHub profile views" align="left" src="https://komarev.com/ghpvc/?username=DevLoopes&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
-        <img src="https://komarev.com/ghpvc/?username=DevLoopes" &nbsp;&nbsp;&nbsp;&nbsp;>
-        <img src="https://img.shields.io/github/followers/DevLoopes?style=social"&nbsp;&nbsp;&nbsp;&nbsp;>
-        <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
-    </a>
-    <h1 align="right"> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
-</div>
+<h1 align="right"> Hello, I am Alex <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
 
 <!-- Abroad me -->
 <picture>
@@ -41,10 +33,7 @@
 </picture>
 
 ## **Tecnologias & Ferramentas** 🧰
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around"> 
-<details open>
-  <summary><h2>🧪 Linguagens</h2></summary>
-  <div>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around">
     <picture>
         <!-- HTML -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" />
@@ -59,11 +48,8 @@
         <!-- Python -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
     </picture>
-  </div>
-</details>
-<details open>
-  <summary><h2>Tecnologias / Frameworks / Bibliotecas</h2></summary>
-  <div>
+    
+**Tecnologias / Frameworks / Bibliotecas**
     <picture>
         <!-- React.js -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="50"/>
@@ -78,11 +64,8 @@
         <!-- Sequelize -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="50"/>
     </picture>
-  </div>
-</details>
-<details open>
-  <summary><h2>Ferramentas</h2></summary>
-  <div>
+    
+**Ferramentas**
     <picture>
         <!-- MySQL -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50"/>
@@ -95,9 +78,18 @@
         <!-- Swagger -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger / OpenAPI" width="50"/>
     </picture>
-  </div>
-</details>
 </div>
+    
+<details open>
+    <summary><h2>Github Stats📊</h2></summary>
+    <div>
+        <a href="https://github.com/DevLoopes" align="left">
+            <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=DevLoopes&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
+            <img src="https://komarev.com/ghpvc/?username=DevLoopes" />
+            <img src="https://img.shields.io/github/followers/DevLoopes?style=social" />
+        </a>
+    </div>
+</details>
 
 <!-- DASHBOARD'S -->
 <!-- <p align="center">
