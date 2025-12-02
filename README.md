@@ -81,7 +81,7 @@
             <img src="https://img.shields.io/github/followers/DevLoopes?style=social" />
         </a>
     </div>
-    <img src="/optimized_DevLoopes_github_meme_dark.gif" class="giphy-embed" width="50%" align="left" />
+    <img src="/optimized_DevLoopes_github_meme_dark.gif" class="giphy-embed" width="65%" align="right" />
 </details>
 
 <!-- DASHBOARD'S -->
