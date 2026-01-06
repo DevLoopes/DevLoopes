@@ -38,38 +38,42 @@
 ## **Tecnologias & Ferramentas** 🧰
 <picture>
     <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around" width="40%">
+        <!-- Python -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
         <!-- HTML -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
         <!-- CSS -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
         <!-- JavaScript -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
+        <!-- TypeScript -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
+        <!-- React.js -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="40"/>
+        <!-- Next.js -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40"/>
+        <!-- Node.js -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
+        <!-- Sequelize -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="40"/>
+        <!-- Express -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40"/>
         <!-- PHP -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40"/>
         <!-- Java -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>
-        <!-- Python -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
-        <!-- React.js -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="40"/>
-        <!-- Node.js -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
-        <!-- Express -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40"/>
-        <!-- Docker -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
         <!-- Laravel PHP -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel PHP" width="40"/>
-        <!-- Sequelize -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="40"/>
-        <!-- MySQL -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
-        <!-- GIT -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" width="40"/>
         <!-- Java NetBeans -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" title="Java NetBeans" width="40"/>
         <!-- Dbeaver-ce -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" title="Dbeaver-ce" width="40"/>
+        <!-- MySQL -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
+        <!-- GIT -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" width="40"/>
+        <!-- Docker -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
         <!-- Swagger -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="Swagger / OpenAPI" width="40"/>
     </div>
